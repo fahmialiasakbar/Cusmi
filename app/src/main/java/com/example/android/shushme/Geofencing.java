@@ -1,4 +1,4 @@
-package com.example.android.shushme.provider;
+package com.example.android.shushme;
 
 /*
 * Copyright (C) 2017 The Android Open Source Project
